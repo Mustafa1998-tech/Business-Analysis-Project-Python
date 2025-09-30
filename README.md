@@ -96,6 +96,14 @@ business_analysis_project/
 2. Update the analysis in `notebooks/analysis.py`
 3. Add more visualizations or analysis as needed
 
+## 📊 Dashboard Screenshots
+
+### Sales Overview
+![Sales Dashboard 1](./screenshots/dashboard1.png)
+
+### Customer Analysis
+![Sales Dashboard 2](./screenshots/dashboard2.png)
+
 ## License
 
 This project is open source and available under the MIT License.
