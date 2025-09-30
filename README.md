@@ -104,6 +104,27 @@ business_analysis_project/
 ### Customer Analysis
 ![Sales Dashboard 2](./screenshots/dashboard2.png)
 
+### Regional Performance
+![Sales Dashboard 3](./screenshots/dashboard3.png)
+
+### Product Category Analysis
+![Sales Dashboard 4](./screenshots/dashboard4.png)
+
+### Monthly Sales Trend
+![Sales Dashboard 5](./screenshots/dashboard5.png)
+
+### Customer Segmentation
+![Sales Dashboard 6](./screenshots/dashboard6.png)
+
+### Loyalty Program Impact
+![Sales Dashboard 7](./screenshots/dashboard7.png)
+
+### Age Group Analysis
+![Sales Dashboard 8](./screenshots/dashboard8.png)
+
+### Sales by Time of Day
+![Sales Dashboard 9](./screenshots/dashboard9.png)
+
 ## License
 
 This project is open source and available under the MIT License.
